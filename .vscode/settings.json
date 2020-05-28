@@ -1,0 +1,6 @@
+{
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.pythonPath": "/Users/xuan/Desktop/PROJECTS/mushrooms/env/bin/python",
+  "python.linting.mypyEnabled": true
+}
